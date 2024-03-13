@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { nanoid } from "nanoid";
-import Disney_poster from "../../assets/Images/Disney_poster.png";
+import Disney_poster from "../../assets/Images/disney_poster.png";
 import marvel_logo from "../../assets/Images/marvel.png";
 import nationalG_logo from "../../assets/Images/nationalG.png";
 import pixar_logo from "../../assets/Images/pixar.png";
